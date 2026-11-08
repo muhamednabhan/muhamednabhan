@@ -1,97 +1,123 @@
 <div align="center">
 
-# NABHAN
-### AI/ML Engineer · Generative AI · Software Developer
+<img src="assets/signature-motion.gif" width="100%" alt="Muhamed Nabhan — signature motion banner">
 
-*Building practical AI systems that solve real problems.*
+<br>
 
-<a href="mailto:muhamednabhan11@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+<a href="mailto:muhamednabhan1@gmail.com">
+  <img src="https://img.shields.io/badge/LET'S_TALK-EMAIL-ECE7E1?style=for-the-badge&logo=gmail&logoColor=111111&labelColor=E13B43" alt="Email">
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/muhamed-nabhan">
-  <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<a href="https://www.linkedin.com/in/muhamed-nabhan/" target="_blank">
+  <img src="https://img.shields.io/badge/CONNECT-LINKEDIN-ECE7E1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1769AA" alt="LinkedIn">
+</a>
+&nbsp;
+<a href="https://github.com/muhamednabhan">
+  <img src="https://img.shields.io/badge/EXPLORE-GITHUB-ECE7E1?style=for-the-badge&logo=github&logoColor=white&labelColor=292929" alt="GitHub">
 </a>
 
 <br><br>
 
-<img src="assets/red-flow.gif" width="100%" alt="Animated red flowing light banner">
+<sub>BUILD WITH INTENT. SHIP WITH PURPOSE.</sub>
+
+</div>
+
+---
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+### THE SHORT VERSION
+
+I'm **Muhamed Nabhan** — an AI/ML engineer who likes getting into the details, building things that work, and seeing an idea through to the finish line.
+
+My work spans applied machine learning, computer vision, LLM-powered systems, and automation. I've built across research and product environments, from explainable satellite-image analysis to multilingual voice workflows and business automation.
+
+I prefer practical engineering: understand the problem, build the system, test the edges, make it better.
+
+</td>
+<td width="42%" valign="top">
+
+### CURRENT TOOLKIT
+
+`Python` `TensorFlow` `Keras`  
+`Scikit-learn` `OpenCV` `YOLOv8`  
+`Vision Transformers` `SHAP` `Grad-CAM`  
+`LLMs` `RAG` `NLTK`  
+`FastAPI` `Flask` `Gradio`  
+`Docker` `AWS` `n8n`  
+`Copilot Studio` `Git` `GitHub`
+
+</td>
+</tr>
+</table>
+
+## SELECTED WORK
+
+| 01 — RESEARCH / COMPUTER VISION | 02 — VOICE AI / AUTOMATION |
+|:--|:--|
+| **Explainable Multispectral Crop Stress Detection** | **Multilingual Patient Assistance System** |
+| Vision Transformers + Sentinel-2 imagery to identify crop stress before visible symptoms. SHAP and Grad-CAM make model decisions interpretable. | Multilingual patient intake and appointment workflows in English, Arabic, Hindi, and Malayalam, with voice transcription, TTS, patient retrieval, and emergency escalation. |
+
+| 03 — KNOWLEDGE SYSTEMS | 04 — HUMAN-COMPUTER INTERACTION |
+|:--|:--|
+| **Cultural Heritage RAG** | **Real-Time Hand Gesture Recognition** |
+| Multi-source retrieval across cultural heritage APIs, with source attribution and grounded answers. | MediaPipe + OpenCV gesture controls for cursor movement, volume, and click operations. |
+
+| 05 — BUSINESS AUTOMATION | 06 — NLP / CHATBOTS |
+|:--|:--|
+| **AI Agents & Invoice Automation** | **Dexter — Mental Health Support Chatbot** |
+| Agent-based workflows for data retrieval, automated messaging, and invoice generation. | Fine-tuned neural-chat-7b-v3 with a custom dataset, developed through the Intel Unnati programme. |
+
+## EXPERIENCE
+
+**AI Engineering Intern** · Innobayt Innovative Solutions  
+<sub>Dubai, UAE · Dec 2025 — Feb 2026</sub>
+
+Built AI agents and small-scale models for business automation, including automated messaging and invoice generation workflows.
+
+**Product Documentation Intern** · OHC  
+<sub>Remote · Feb 2025 — Aug 2025</sub>
+
+Created technical documentation and tutorials, tested UI workflows, and validated module outputs through local deployment.
+
+**Intel® Unnati AI Trainee**  
+<sub>Remote · May 2024 — Jul 2024</sub>
+
+Developed and fine-tuned an AI-powered mental health chatbot using Intel neural-chat-7b-v3 and a custom dataset.
+
+## RESEARCH & RECOGNITION
+
+- **Research publication (2025):** Co-authored *Effective Explainable Model to Detect Multispectral Crop Stress Using ViT*.
+- **KSCST 49th Student Project Programme (2025–26):** Government-funded research project, Government of Karnataka.
+- **State-level presentation:** Poster presentation and exhibition at SPP 2025–26.
+
+## EDUCATION
+
+**B.Tech — Artificial Intelligence & Machine Learning**  
+Christ University, Bengaluru · Aug 2022 — May 2026
+
+---
+
+<div align="center">
+
+### HAVE SOMETHING WORTH BUILDING?
 
 <br>
 
-<sub>DESIGN · INTELLIGENCE · ENGINEERING</sub>
-
-</div>
-
----
-
-## `01` / ABOUT
-
-I'm **Nabhan**, an AI & Machine Learning engineering graduate-in-progress focused on turning ideas into useful products. I work across machine learning, computer vision, generative AI, retrieval-augmented generation, and full-stack application development.
-
-- Building AI-powered applications, assistants, and automation workflows
-- Interested in applied research, product engineering, and human-centered AI
-- Enjoy taking projects from experimentation to usable interfaces
-
-## `02` / WHAT I WORK WITH
-
-<div align="center">
-
-**LANGUAGES & DATA**  
-<img src="https://skillicons.dev/icons?i=python,js,html,css,sql&theme=dark" alt="Languages">
-
-**AI / MACHINE LEARNING**  
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark" alt="AI and ML tools">
-
-**GEN AI & BACKEND**  
-<img src="https://skillicons.dev/icons?i=fastapi,flask,docker,git,github&theme=dark" alt="Backend and tools">
-
-</div>
-
-`Generative AI` · `LLMs` · `Transformers` · `RAG` · `LangChain` · `Hugging Face` · `LLM Fine-tuning` · `Prompt Engineering` · `YOLOv8` · `MediaPipe` · `SHAP` · `Grad-CAM` · `n8n` · `Copilot Studio` · `Three.js` · `GSAP`
-
-## `03` / SELECTED BUILDS
-
-| PROJECT | FOCUS |
-|:--|:--|
-| **Multispectral Crop Stress Detection** | Explainable vision model using Vision Transformers for crop-stress analysis |
-| **Multilingual Patient Assistance** | AI-assisted patient support with multilingual interaction |
-| **Cultural Heritage RAG** | Retrieval-augmented question answering for cultural knowledge |
-| **Gesture Control** | Vision-based hand-gesture interaction |
-| **Diabetes Prediction** | Machine-learning classification for health-risk prediction |
-| **Invoice Bot** | Document understanding and invoice workflow automation |
-| **PPE Detection** | YOLOv8-based construction safety monitoring |
-| **Mental Health Support** | Dexter, a mental-health information and support chatbot |
-| **Automation Workflows** | Connected AI tools and workflow automation |
-
-## `04` / RESEARCH & RECOGNITION
-
-- **Research Publication · 2025** — *Effective Explainable Model to Detect Multispectral Crop Stress Using ViT*
-- **KSCST Government-Funded Research Project** — 49th Student Project Programme (SPP), Government of Karnataka
-- **State-Level Poster Presentation & Exhibition** — SPP 2025–26
-
-## `05` / CERTIFICATIONS
-
-- **IBM SkillsBuild** — Retrieval-Augmented Generation for Enhanced AI Outputs
-- **Anthropic** — Introduction to Model Context Protocol
-- **NPTEL** — Data Science
-- **Cisco** — Introduction to Cyber Security
-- **Coursera** — Introduction to Augmented Reality
-- **MathWorks** — Signal Processing Onramp
-
----
-
-<div align="center">
-
-### LET'S BUILD SOMETHING USEFUL.
-
-<a href="mailto:muhamednabhan11@gmail.com">
-  <img src="https://img.shields.io/badge/✉%20EMAIL-muhamednabhan11%40gmail.com-EA4335?style=for-the-badge" alt="Email Nabhan">
-</a>
-<a href="https://www.linkedin.com/in/muhamed-nabhan">
-  <img src="https://img.shields.io/badge/↗%20LINKEDIN-Connect-0A66C2?style=for-the-badge" alt="LinkedIn profile">
+<a href="mailto:muhamednabhan1@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL_MUHamedNABHAN1%40GMAIL.COM-REACH_OUT-ECE7E1?style=for-the-badge&logo=gmail&logoColor=111111&labelColor=E13B43" alt="Email Nabhan">
 </a>
 
-<sub>Designed for GitHub · Dark, minimal, and always in motion</sub>
+<br><br>
+
+<a href="https://www.linkedin.com/in/muhamed-nabhan/" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-MUHamed_NABHAN-FFFFFF?style=flat-square&logo=linkedin&logoColor=FFFFFF&labelColor=1769AA" alt="LinkedIn">
+</a>
+
+<br><br>
+
+<sub>MUHAMED NABHAN · ENGINEERING, WITH INTENT.</sub>
 
 </div>
