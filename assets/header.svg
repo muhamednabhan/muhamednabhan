@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+<title id="title">Muhamed Nabhan — AI/ML Engineer</title>
+<desc id="desc">A typographic GitHub profile banner with animated text reveal.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0D1117"/>
+    <stop offset="1" stop-color="#111820"/>
+  </linearGradient>
+  <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+    <path d="M34 0H0V34" fill="none" stroke="#30363D" stroke-width="1" opacity=".34"/>
+  </pattern>
+  <clipPath id="reveal"><rect x="58" y="88" width="0" height="190"><animate attributeName="width" from="0" to="1080" dur="1.8s" fill="freeze"/></rect></clipPath>
+</defs>
+<rect width="1200" height="430" rx="22" fill="url(#bg)"/>
+<rect width="1200" height="430" rx="22" fill="url(#grid)"/>
+<circle cx="1080" cy="90" r="170" fill="#58A6FF" opacity=".06"/>
+<circle cx="1080" cy="90" r="112" fill="none" stroke="#58A6FF" stroke-opacity=".22"/>
+<path d="M58 54H1142" stroke="#30363D"/>
+<text x="60" y="42" fill="#8B949E" font-family="Arial,sans-serif" font-size="13" letter-spacing="4">PORTFOLIO / GITHUB PROFILE</text>
+<g clip-path="url(#reveal)">
+  <text x="54" y="205" fill="#F0F6FC" font-family="'Arial Black',Impact,sans-serif" font-size="104" font-weight="900" letter-spacing="-5">MUHAMED</text>
+  <text x="54" y="300" fill="#7EE787" font-family="Georgia,serif" font-size="92" font-weight="700" font-style="italic" letter-spacing="-4">NABHAN.</text>
+</g>
+<text x="64" y="354" fill="#58A6FF" font-family="Arial,sans-serif" font-size="21" font-weight="700" letter-spacing="3">AI / ML ENGINEER</text>
+<text x="64" y="386" fill="#8B949E" font-family="Arial,sans-serif" font-size="15" letter-spacing="1.5">COMPUTER VISION  ·  LLMs  ·  RAG  ·  AUTOMATION</text>
+<text x="1138" y="386" text-anchor="end" fill="#6E7681" font-family="monospace" font-size="13">DUBAI, UAE</text>
+<path d="M1050 250h88m-18 -18 18 18 -18 18" fill="none" stroke="#58A6FF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
